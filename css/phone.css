@@ -1,0 +1,12 @@
+@media only screen and (max-width: 520px) {
+  body {}
+  .multi {
+    width: 200px !important;
+    height: 90px;
+  }
+
+  .selectize-input {
+    height: 100%;
+    overflow: auto;
+  }
+}
