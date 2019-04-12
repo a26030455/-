@@ -1,2 +1,2 @@
 # Factory-lottery-system
-工廠抽籤系統-made by 子翔
+迎廣本廠抽籤系統-made by 子翔
